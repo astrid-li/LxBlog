@@ -1,0 +1,11 @@
+# 详情请参考：https://halo.run/develop/theme.html#theme-yaml
+id: astridLi
+name: lixin
+author:
+  name: lixin
+  website: http://123.57.52.29:8090
+description: 寒山的大道至简 添加自己的小设置
+logo:
+website: https://github.com/hshanx/halo-theme-hshan
+repo: https://github.com/hshanx/halo-theme-hshan
+version: 1.0
